@@ -1,0 +1,1131 @@
+Added Component: Designator=C1(CC509*5)
+Add component (AddParameter): Name = "Value"; Value = "102K/1KV"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CE2050)
+Add component (AddParameter): Name = "Value"; Value = "47uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CE50130)
+Add component (AddParameter): Name = "Value"; Value = "1000uF/35V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C10013*4)
+Add component (AddParameter): Name = "Value"; Value = "222/250VAC(Y2)"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C508*3)
+Add component (AddParameter): Name = "Value"; Value = "223K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C508*5)
+Add component (AddParameter): Name = "Value"; Value = "105K63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C508*5)
+Add component (AddParameter): Name = "Value"; Value = "105K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CC509*5)
+Add component (AddParameter): Name = "Value"; Value = "102K/1KV"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CC509*5)
+Add component (AddParameter): Name = "Value"; Value = "102K/1KV"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C10013*4)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C508*3)
+Add component (AddParameter): Name = "Value"; Value = "223K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C508*5)
+Add component (AddParameter): Name = "Value"; Value = "105K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CC509*5)
+Add component (AddParameter): Name = "Value"; Value = "102K/1KV"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C10013*4)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "222/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "225/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "471/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CC509*5)
+Add component (AddParameter): Name = "Value"; Value = "102K/1KV"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C508*5)
+Add component (AddParameter): Name = "Value"; Value = "105K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C508*3)
+Add component (AddParameter): Name = "Value"; Value = "223K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "105/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "105/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CE50130)
+Add component (AddParameter): Name = "Value"; Value = "1000uF/35V"; VariantName = "[No Variations]"
+Added Component: Designator=C43(C10013*4)
+Add component (AddParameter): Name = "Value"; Value = "222/250VAC(Y2)"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CE2050)
+Add component (AddParameter): Name = "Value"; Value = "47uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C45(C508*3)
+Add component (AddParameter): Name = "Value"; Value = "223K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C46(C508*5)
+Add component (AddParameter): Name = "Value"; Value = "105K/63VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C47(CC509*5)
+Add component (AddParameter): Name = "Value"; Value = "102K/1KV"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C49(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C50(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "225/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C53(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C54(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C55(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C56(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C57(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C58(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C59(CE100350)
+Add component (AddParameter): Name = "Value"; Value = "470uF/450V"; VariantName = "[No Variations]"
+Added Component: Designator=C60(C22527*9)
+Add component (AddParameter): Name = "Value"; Value = "0.47uF/330V~(X1)"; VariantName = "[No Variations]"
+Added Component: Designator=C61(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C62(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C63(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C64(CE100350)
+Add component (AddParameter): Name = "Value"; Value = "470uF/450V"; VariantName = "[No Variations]"
+Added Component: Designator=C65(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=C66(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C68(CE3580)
+Add component (AddParameter): Name = "Value"; Value = "470uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C69(C22527*9)
+Add component (AddParameter): Name = "Value"; Value = "0.47uF/330V~(X1)"; VariantName = "[No Variations]"
+Added Component: Designator=C70(C0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "104/0805"; VariantName = "[No Variations]"
+Added Component: Designator=C71(CE100350)
+Add component (AddParameter): Name = "Value"; Value = "470uF/450V"; VariantName = "[No Variations]"
+Added Component: Designator=C72(C10013*5)
+Add component (AddParameter): Name = "Value"; Value = "472M/400VAC(Y1)"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D41P2H-1)
+Add component (AddParameter): Name = "Value"; Value = "MUR2100E"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D247P2)
+Add component (AddParameter): Name = "Value"; Value = "APT15D60BG"; VariantName = "[No Variations]"
+Added Component: Designator=D3(D4236P2)
+Add component (AddParameter): Name = "Value"; Value = "SF1600"; VariantName = "[No Variations]"
+Added Component: Designator=D4(D4236P2)
+Add component (AddParameter): Name = "Value"; Value = "MUR2100E"; VariantName = "[No Variations]"
+Added Component: Designator=D5(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "BAV70LT1G"; VariantName = "[No Variations]"
+Added Component: Designator=D6(D27P2H-1)
+Add component (AddParameter): Name = "Value"; Value = "MUR460"; VariantName = "[No Variations]"
+Added Component: Designator=D7(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "BAT54S"; VariantName = "[No Variations]"
+Added Component: Designator=D8(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "BAV70LT1G"; VariantName = "[No Variations]"
+Added Component: Designator=D9(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "BAV70LT1G"; VariantName = "[No Variations]"
+Added Component: Designator=D10(D4236P2)
+Add component (AddParameter): Name = "Value"; Value = "SF1600"; VariantName = "[No Variations]"
+Added Component: Designator=D11(D4236P2)
+Add component (AddParameter): Name = "Value"; Value = "MUR2100E"; VariantName = "[No Variations]"
+Added Component: Designator=D12(D27P2H-1)
+Add component (AddParameter): Name = "Value"; Value = "MUR460"; VariantName = "[No Variations]"
+Added Component: Designator=D13(D41P2H-1)
+Add component (AddParameter): Name = "Value"; Value = "MUR2100E"; VariantName = "[No Variations]"
+Added Component: Designator=D15(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "BAV70LT1G"; VariantName = "[No Variations]"
+Added Component: Designator=D16(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D17(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D18(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D19(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D20(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D21(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D22(D41P2H-1)
+Add component (AddParameter): Name = "Value"; Value = "MUR2100E"; VariantName = "[No Variations]"
+Added Component: Designator=D23(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D24(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D25(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D26(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D27(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=D28(D150)
+Add component (AddParameter): Name = "Value"; Value = "MUR4100E"; VariantName = "[No Variations]"
+Added Component: Designator=F1(Fuse 3A 125V)
+Add component (AddParameter): Name = "Value"; Value = "3A125V"; VariantName = "[No Variations]"
+Added Component: Designator=F3(FUSE5A350VAC)
+Add component (AddParameter): Name = "Value"; Value = "6A/250Vac"; VariantName = "[No Variations]"
+Added Component: Designator=J1(SIP-B1P2H)
+Add component (AddParameter): Name = "Value"; Value = "CON2/3.96"; VariantName = "[No Variations]"
+Added Component: Designator=J3(SIP-B1P2H)
+Add component (AddParameter): Name = "Value"; Value = "CON2/3.96"; VariantName = "[No Variations]"
+Added Component: Designator=J4(SIP-B1P2H)
+Add component (AddParameter): Name = "Value"; Value = "CON2/3.96"; VariantName = "[No Variations]"
+Added Component: Designator=J5(SIP-B1P6H)
+Add component (AddParameter): Name = "Value"; Value = "CON6/3.96"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SIP-B1P3H)
+Add component (AddParameter): Name = "Value"; Value = "CON3/3.96"; VariantName = "[No Variations]"
+Added Component: Designator=J7(SIP-C3P3H)
+Add component (AddParameter): Name = "Value"; Value = "CON3/2.54"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L9P2)
+Add component (AddParameter): Name = "Value"; Value = "DR2W-9*12  33uH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L9P2)
+Add component (AddParameter): Name = "Value"; Value = "DR2W-9*12  33uH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L9P2)
+Add component (AddParameter): Name = "Value"; Value = "DR2W-9*12  33uH"; VariantName = "[No Variations]"
+Added Component: Designator=L4(L9P2)
+Add component (AddParameter): Name = "Value"; Value = "DR2W-9*12  33uH"; VariantName = "[No Variations]"
+Added Component: Designator=L5(L28*17.5P4)
+Add component (AddParameter): Name = "Value"; Value = "T22*4"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED25C)
+Add component (AddParameter): Name = "Value"; Value = "发光二极管Φ5 发绿光"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(2SK2613)
+Add component (AddParameter): Name = "Value"; Value = "2SK2613"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(2N4401)
+Add component (AddParameter): Name = "Value"; Value = "2N4401"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(2N4403)
+Add component (AddParameter): Name = "Value"; Value = "2N4403"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(2SK2613)
+Add component (AddParameter): Name = "Value"; Value = "2SK2613"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TRPNPBSM)
+Add component (AddParameter): Name = "Value"; Value = "MMBT2907ALT1"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TRPNPBSM)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "MMBT2222ALT1G"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "MMBT2222ALT1G"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(TRNPNBSM)
+Add component (AddParameter): Name = "Value"; Value = "MMBT2222ALT1G"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R100060)
+Add component (AddParameter): Name = "Value"; Value = "100K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R100060)
+Add component (AddParameter): Name = "Value"; Value = "100K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R100060)
+Add component (AddParameter): Name = "Value"; Value = "100K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R100060)
+Add component (AddParameter): Name = "Value"; Value = "33/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "75/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R100060)
+Add component (AddParameter): Name = "Value"; Value = "1K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "75/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "6.81K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "49.9K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "1K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R100060)
+Add component (AddParameter): Name = "Value"; Value = "33/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R100060)
+Add component (AddParameter): Name = "Value"; Value = "1K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "75/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "1M/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R100060)
+Add component (AddParameter): Name = "Value"; Value = "33/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "75/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "49.9K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "49.9/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R100060)
+Add component (AddParameter): Name = "Value"; Value = "1K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "330/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "249/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R075005)
+Add component (AddParameter): Name = "Value"; Value = "0.33/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R1206NSM)
+Add component (AddParameter): Name = "Value"; Value = "75/1206"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R100060)
+Add component (AddParameter): Name = "Value"; Value = "1K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R100060)
+Add component (AddParameter): Name = "Value"; Value = "33/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "3.3K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "5.6K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R075005)
+Add component (AddParameter): Name = "Value"; Value = "2M/1W"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "3.3K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R075005)
+Add component (AddParameter): Name = "Value"; Value = "2M/1W"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "4.99K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "5.6K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R34(R075005)
+Add component (AddParameter): Name = "Value"; Value = "400K/1W"; VariantName = "[No Variations]"
+Added Component: Designator=R35(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "5.6K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R36(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "10K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R37(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "3K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R39(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "3K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "9.1K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "1K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "5.6K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "8.25K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "10K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "2K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "2K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R47(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "2K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R48(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "5.6K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R49(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "2K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R50(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "2.49K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R100060)
+Add component (AddParameter): Name = "Value"; Value = "140K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R100060)
+Add component (AddParameter): Name = "Value"; Value = "140K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=R53(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "3.3K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R54(R0805BSM)
+Add component (AddParameter): Name = "Value"; Value = "3.3K/0805"; VariantName = "[No Variations]"
+Added Component: Designator=R55(R100060)
+Add component (AddParameter): Name = "Value"; Value = "140K/3W"; VariantName = "[No Variations]"
+Added Component: Designator=SC1(SC40)
+Add component (AddParameter): Name = "PDIF_TY"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SC2(SC40)
+Add component (AddParameter): Name = "PDIF_TY"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SC3(SC40)
+Add component (AddParameter): Name = "PDIF_TY"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SC4(SC40)
+Add component (AddParameter): Name = "PDIF_TY"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SC5(SC40)
+Add component (AddParameter): Name = "PDIF_TY"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SC6(SC40)
+Add component (AddParameter): Name = "PDIF_TY"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SR1(SRSQM1411)
+Add component (AddParameter): Name = "Value"; Value = "500/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR2(SRSQM1411)
+Add component (AddParameter): Name = "Value"; Value = "500/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR3(SRSQM1411)
+Add component (AddParameter): Name = "Value"; Value = "500/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR4(SRSQM1411)
+Add component (AddParameter): Name = "Value"; Value = "500/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR5(SRSQM1411)
+Add component (AddParameter): Name = "Value"; Value = "500/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR6(SRSQM1411)
+Add component (AddParameter): Name = "Value"; Value = "500/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR7(SRSQM130100)
+Add component (AddParameter): Name = "Value"; Value = "30/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR8(SRSQM130100)
+Add component (AddParameter): Name = "Value"; Value = "30/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR9(SRSQM130100)
+Add component (AddParameter): Name = "Value"; Value = "30/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR10(SRSQM130100)
+Add component (AddParameter): Name = "Value"; Value = "30/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR11(SRSQM130100)
+Add component (AddParameter): Name = "Value"; Value = "30/10W"; VariantName = "[No Variations]"
+Added Component: Designator=SR12(SRSQM130100)
+Add component (AddParameter): Name = "Value"; Value = "30/10W"; VariantName = "[No Variations]"
+Added Component: Designator=T1(ER42)
+Add component (AddParameter): Name = "Value"; Value = "ER42"; VariantName = "[No Variations]"
+Added Component: Designator=T2(EEL-16X)
+Add component (AddParameter): Name = "Value"; Value = "EEL-16X"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TEST)
+Add component (AddParameter): Name = "Value"; Value = "VCC+18V"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST)
+Add component (AddParameter): Name = "Value"; Value = "MOS_UP_S"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TEST)
+Add component (AddParameter): Name = "Value"; Value = "PWM_OUT"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TEST)
+Add component (AddParameter): Name = "Value"; Value = "OSC"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TEST)
+Add component (AddParameter): Name = "Value"; Value = "MOS_DOWN_D"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TEST)
+Add component (AddParameter): Name = "Value"; Value = "CS"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TEST)
+Add component (AddParameter): Name = "Value"; Value = "GND+15V"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TEST)
+Add component (AddParameter): Name = "Value"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TEST)
+Add component (AddParameter): Name = "Value"; Value = "VCC+15V"; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TEST)
+Add component (AddParameter): Name = "Value"; Value = "Vfb"; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TEST)
+Add component (AddParameter): Name = "Value"; Value = "PWR_NG"; VariantName = "[No Variations]"
+Added Component: Designator=TP18(TEST)
+Add component (AddParameter): Name = "Value"; Value = "GND+15V"; VariantName = "[No Variations]"
+Added Component: Designator=TP19(TEST)
+Add component (AddParameter): Name = "Value"; Value = "VDC"; VariantName = "[No Variations]"
+Added Component: Designator=TP20(TEST)
+Add component (AddParameter): Name = "Value"; Value = "GND+15V"; VariantName = "[No Variations]"
+Added Component: Designator=TP22(TEST)
+Add component (AddParameter): Name = "Value"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=U1(2844)
+Added Component: Designator=U2(PH521)
+Add component (AddParameter): Name = "Value"; Value = "TLP521"; VariantName = "[No Variations]"
+Added Component: Designator=U3(AZ431LS23TSM)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=U4(AZ431LS23TSM)
+Add component (AddParameter): Name = "Value"; Value = "AZ431LANTR-E1"; VariantName = "[No Variations]"
+Added Component: Designator=U5(AZ431LS23TSM)
+Add component (AddParameter): Name = "Value"; Value = "AZ431LANTR-E1"; VariantName = "[No Variations]"
+Added Component: Designator=U6(AZ431LS23TSM)
+Add component (AddParameter): Name = "Value"; Value = "AZ431LANTR-E1"; VariantName = "[No Variations]"
+Added Component: Designator=U7(7805SM)
+Add component (AddParameter): Name = "Value"; Value = "MC7805BDTG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=VCC+18V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=MON GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC+18V Pin=C4-2
+Added Pin To Net: NetName=MON GND Pin=C5-1
+Added Pin To Net: NetName=PE Pin=C5-2
+Added Pin To Net: NetName=MON GND Pin=C6-1
+Added Pin To Net: NetName=NetC3_1 Pin=C6-2
+Added Pin To Net: NetName=MON GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-1
+Added Pin To Net: NetName=MON GND Pin=C8-2
+Added Pin To Net: NetName=NetC7_2 Pin=C9-1
+Added Pin To Net: NetName=MON GND Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=C10-1
+Added Pin To Net: NetName=MON GND Pin=C10-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND+12V Pin=C14-1
+Added Pin To Net: NetName=PE Pin=C14-2
+Added Pin To Net: NetName=GND+12V Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=GND+12V Pin=C16-1
+Added Pin To Net: NetName=VCC+12V Pin=C16-2
+Added Pin To Net: NetName=VCC+12V Pin=C17-1
+Added Pin To Net: NetName=GND+12V Pin=C17-2
+Added Pin To Net: NetName=NetC15_2 Pin=C18-1
+Added Pin To Net: NetName=GND+12V Pin=C18-2
+Added Pin To Net: NetName=VCC+12V Pin=C19-1
+Added Pin To Net: NetName=GND+12V Pin=C19-2
+Added Pin To Net: NetName=VCC+12V Pin=C20-1
+Added Pin To Net: NetName=GND+12V Pin=C20-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=GND+12V Pin=C22-1
+Added Pin To Net: NetName=GND+15V Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=GND+15V Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=GND+15V Pin=C30-1
+Added Pin To Net: NetName=VCC-15V Pin=C30-2
+Added Pin To Net: NetName=GND+15V Pin=C31-1
+Added Pin To Net: NetName=NetC29_2 Pin=C31-2
+Added Pin To Net: NetName=GND+15V Pin=C32-1
+Added Pin To Net: NetName=VCC-15V Pin=C32-2
+Added Pin To Net: NetName=GND+15V Pin=C33-1
+Added Pin To Net: NetName=VCC-15V Pin=C33-2
+Added Pin To Net: NetName=VCC-15V Pin=C34-1
+Added Pin To Net: NetName=GND+15V Pin=C34-2
+Added Pin To Net: NetName=VCC-15V Pin=C35-1
+Added Pin To Net: NetName=GND+15V Pin=C35-2
+Added Pin To Net: NetName=VCC+15V Pin=C36-1
+Added Pin To Net: NetName=VCC-15V Pin=C36-2
+Added Pin To Net: NetName=VCC+15V Pin=C37-1
+Added Pin To Net: NetName=VCC-15V Pin=C37-2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=GND+15V Pin=C38-2
+Added Pin To Net: NetName=VCC+15V Pin=C39-1
+Added Pin To Net: NetName=GND+15V Pin=C39-2
+Added Pin To Net: NetName=VCC+15V Pin=C40-1
+Added Pin To Net: NetName=GND+15V Pin=C40-2
+Added Pin To Net: NetName=VCC+15V Pin=C41-1
+Added Pin To Net: NetName=GND+15V Pin=C41-2
+Added Pin To Net: NetName=NetC38_1 Pin=C42-1
+Added Pin To Net: NetName=GND+15V Pin=C42-2
+Added Pin To Net: NetName=PE Pin=C43-1
+Added Pin To Net: NetName=GND+15V Pin=C43-2
+Added Pin To Net: NetName=VCC+18V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND+15V Pin=C45-1
+Added Pin To Net: NetName=VCC+15V Pin=C45-2
+Added Pin To Net: NetName=GND+15V Pin=C46-1
+Added Pin To Net: NetName=VCC+15V Pin=C46-2
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_2 Pin=C47-2
+Added Pin To Net: NetName=VDC Pin=C48-1
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=C49-1
+Added Pin To Net: NetName=NetC47_1 Pin=C49-2
+Added Pin To Net: NetName=GND+15V Pin=C50-1
+Added Pin To Net: NetName=NetC38_1 Pin=C50-2
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=VCC+5V Pin=C52-1
+Added Pin To Net: NetName=GND+15V Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=GND+15V Pin=C55-1
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=GND+15V Pin=C56-1
+Added Pin To Net: NetName=NetC56_2 Pin=C56-2
+Added Pin To Net: NetName=GND+15V Pin=C57-1
+Added Pin To Net: NetName=NetC57_2 Pin=C57-2
+Added Pin To Net: NetName=VDC Pin=C58-1
+Added Pin To Net: NetName=NetC58_2 Pin=C58-2
+Added Pin To Net: NetName=VDC Pin=C59-1
+Added Pin To Net: NetName=NetC59_2 Pin=C59-2
+Added Pin To Net: NetName=NetC60_1 Pin=C60-1
+Added Pin To Net: NetName=NetC60_2 Pin=C60-2
+Added Pin To Net: NetName=NetC58_2 Pin=C61-1
+Added Pin To Net: NetName=PE Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=NetC62_2 Pin=C62-2
+Added Pin To Net: NetName=NetC62_2 Pin=C63-1
+Added Pin To Net: NetName=GND+15V Pin=C63-2
+Added Pin To Net: NetName=NetC59_2 Pin=C64-1
+Added Pin To Net: NetName=NetC64_2 Pin=C64-2
+Added Pin To Net: NetName=PE Pin=C65-1
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=VCC+5V Pin=C66-1
+Added Pin To Net: NetName=GND+15V Pin=C66-2
+Added Pin To Net: NetName=GND+15V Pin=C67-1
+Added Pin To Net: NetName=VCC+5V Pin=C67-2
+Added Pin To Net: NetName=VCC+15V Pin=C68-1
+Added Pin To Net: NetName=GND+15V Pin=C68-2
+Added Pin To Net: NetName=NetC60_2 Pin=C69-1
+Added Pin To Net: NetName=NetC69_2 Pin=C69-2
+Added Pin To Net: NetName=GND+15V Pin=C70-1
+Added Pin To Net: NetName=VCC+15V Pin=C70-2
+Added Pin To Net: NetName=NetC64_2 Pin=C71-1
+Added Pin To Net: NetName=GND Pin=C71-2
+Added Pin To Net: NetName=NetC65_2 Pin=C72-1
+Added Pin To Net: NetName=GND Pin=C72-2
+Added Pin To Net: NetName=VCC+18V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetC3_1 Pin=D2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=VDC Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetC12_2 Pin=D4-1
+Added Pin To Net: NetName=VDC Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=NetC15_2 Pin=D6-1
+Added Pin To Net: NetName=NetC13_1 Pin=D6-2
+Added Pin To Net: NetName=NetC23_2 Pin=D7-1
+Added Pin To Net: NetName=NetC25_2 Pin=D7-2
+Added Pin To Net: NetName=NetC26_2 Pin=D7-3
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-2
+Added Pin To Net: NetName=NetD8_3 Pin=D8-3
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=NetD9_3 Pin=D9-3
+Added Pin To Net: NetName=NetC12_1 Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=NetC28_2 Pin=D11-1
+Added Pin To Net: NetName=NetD3_2 Pin=D11-2
+Added Pin To Net: NetName=NetC21_1 Pin=D12-1
+Added Pin To Net: NetName=NetC29_2 Pin=D12-2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetC23_2 Pin=D15-1
+Added Pin To Net: NetName=NetC23_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_3 Pin=D15-3
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=D17-1
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD17_2 Pin=D18-2
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD17_2 Pin=D19-2
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=NetD18_1 Pin=D20-2
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=NetD19_1 Pin=D21-2
+Added Pin To Net: NetName=VCC+15V Pin=D22-1
+Added Pin To Net: NetName=VCC+5V Pin=D22-2
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD20_1 Pin=D23-2
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD21_1 Pin=D24-2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD23_1 Pin=D25-2
+Added Pin To Net: NetName=NetD25_1 Pin=D26-1
+Added Pin To Net: NetName=NetD24_1 Pin=D26-2
+Added Pin To Net: NetName=NetD27_1 Pin=D27-1
+Added Pin To Net: NetName=NetD27_2 Pin=D27-2
+Added Pin To Net: NetName=NetD25_1 Pin=D28-1
+Added Pin To Net: NetName=NetD27_1 Pin=D28-2
+Added Pin To Net: NetName=NetC7_2 Pin=F1-1
+Added Pin To Net: NetName=MON+15V Pin=F1-2
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetD20_1 Pin=F3-2
+Added Pin To Net: NetName=NetF2_1 Pin=J1-1
+Added Pin To Net: NetName=NetF2_1 Pin=J1-2
+Added Pin To Net: NetName=NetD27_2 Pin=J3-1
+Added Pin To Net: NetName=NetD27_2 Pin=J3-2
+Added Pin To Net: NetName=MON GND Pin=J4-1
+Added Pin To Net: NetName=MON+15V Pin=J4-2
+Added Pin To Net: NetName=GND+15V Pin=J5-1
+Added Pin To Net: NetName=GND+15V Pin=J5-2
+Added Pin To Net: NetName=VCC-15V Pin=J5-3
+Added Pin To Net: NetName=VCC+15V Pin=J5-4
+Added Pin To Net: NetName=VCC+15V Pin=J5-5
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetF3_1 Pin=J6-1
+Added Pin To Net: NetName=NetD21_1 Pin=J6-3
+Added Pin To Net: NetName=GND+12V Pin=J7-1
+Added Pin To Net: NetName=VCC+12V Pin=J7-3
+Added Pin To Net: NetName=NetC3_1 Pin=L1-1
+Added Pin To Net: NetName=NetC7_2 Pin=L1-2
+Added Pin To Net: NetName=NetC15_2 Pin=L2-1
+Added Pin To Net: NetName=VCC+12V Pin=L2-2
+Added Pin To Net: NetName=NetC29_2 Pin=L3-1
+Added Pin To Net: NetName=VCC-15V Pin=L3-2
+Added Pin To Net: NetName=NetC38_1 Pin=L4-1
+Added Pin To Net: NetName=VCC+15V Pin=L4-2
+Added Pin To Net: NetName=NetC69_2 Pin=L5-1
+Added Pin To Net: NetName=GND Pin=L5-2
+Added Pin To Net: NetName=VDC Pin=L5-3
+Added Pin To Net: NetName=NetC60_1 Pin=L5-4
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=VCC+5V Pin=LED1-2
+Added Pin To Net: NetName=NetD5_1 Pin=Q1-1
+Added Pin To Net: NetName=VDC Pin=Q1-2
+Added Pin To Net: NetName=NetC12_1 Pin=Q1-3
+Added Pin To Net: NetName=VCC+18V Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetC11_2 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q3-2
+Added Pin To Net: NetName=NetC11_2 Pin=Q3-3
+Added Pin To Net: NetName=NetD8_1 Pin=Q4-1
+Added Pin To Net: NetName=NetD3_2 Pin=Q4-2
+Added Pin To Net: NetName=NetC28_1 Pin=Q4-3
+Added Pin To Net: NetName=NetD15_3 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetC54_2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=VCC+18V Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=NetC23_2 Pin=Q7-3
+Added Pin To Net: NetName=NetC54_2 Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=NetD15_3 Pin=Q8-3
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=GND+15V Pin=Q9-2
+Added Pin To Net: NetName=NetJ5_6 Pin=Q9-3
+Added Pin To Net: NetName=NetC55_2 Pin=Q10-1
+Added Pin To Net: NetName=GND+15V Pin=Q10-2
+Added Pin To Net: NetName=NetQ9_1 Pin=Q10-3
+Added Pin To Net: NetName=VDC Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetD1_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=R4-1
+Added Pin To Net: NetName=NetC3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetD5_3 Pin=R5-2
+Added Pin To Net: NetName=MON GND Pin=R6-1
+Added Pin To Net: NetName=NetC7_2 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=R7-1
+Added Pin To Net: NetName=NetD5_1 Pin=R7-2
+Added Pin To Net: NetName=NetC25_2 Pin=R8-1
+Added Pin To Net: NetName=NetC24_1 Pin=R8-2
+Added Pin To Net: NetName=NetD5_1 Pin=R9-1
+Added Pin To Net: NetName=NetC12_1 Pin=R9-2
+Added Pin To Net: NetName=NetC11_2 Pin=R10-1
+Added Pin To Net: NetName=NetD9_3 Pin=R10-2
+Added Pin To Net: NetName=NetC13_2 Pin=R11-1
+Added Pin To Net: NetName=NetC15_2 Pin=R11-2
+Added Pin To Net: NetName=GND+12V Pin=R12-1
+Added Pin To Net: NetName=VCC+12V Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetD8_3 Pin=R13-2
+Added Pin To Net: NetName=NetC26_2 Pin=R14-1
+Added Pin To Net: NetName=NetC25_2 Pin=R14-2
+Added Pin To Net: NetName=NetC29_2 Pin=R15-1
+Added Pin To Net: NetName=NetC21_2 Pin=R15-2
+Added Pin To Net: NetName=NetR13_1 Pin=R16-1
+Added Pin To Net: NetName=NetD8_1 Pin=R16-2
+Added Pin To Net: NetName=NetD8_1 Pin=R17-1
+Added Pin To Net: NetName=NetC28_1 Pin=R17-2
+Added Pin To Net: NetName=VCC+18V Pin=R18-1
+Added Pin To Net: NetName=NetD13_1 Pin=R18-2
+Added Pin To Net: NetName=GND+15V Pin=R19-1
+Added Pin To Net: NetName=VCC-15V Pin=R19-2
+Added Pin To Net: NetName=NetC27_1 Pin=R20-1
+Added Pin To Net: NetName=NetC28_1 Pin=R20-2
+Added Pin To Net: NetName=VCC+18V Pin=R21-1
+Added Pin To Net: NetName=NetD13_1 Pin=R21-2
+Added Pin To Net: NetName=NetC28_1 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=VCC+18V Pin=R23-1
+Added Pin To Net: NetName=NetD13_1 Pin=R23-2
+Added Pin To Net: NetName=VCC+15V Pin=R24-1
+Added Pin To Net: NetName=GND+15V Pin=R24-2
+Added Pin To Net: NetName=NetC38_1 Pin=R25-1
+Added Pin To Net: NetName=NetC47_2 Pin=R25-2
+Added Pin To Net: NetName=NetC38_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R27-1
+Added Pin To Net: NetName=VCC+18V Pin=R27-2
+Added Pin To Net: NetName=VDC Pin=R28-1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetC38_1 Pin=R29-1
+Added Pin To Net: NetName=NetC51_2 Pin=R29-2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR28_2 Pin=R30-2
+Added Pin To Net: NetName=NetC38_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=VCC+18V Pin=R32-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R32-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R33-1
+Added Pin To Net: NetName=NetD15_3 Pin=R33-2
+Added Pin To Net: NetName=NetR30_1 Pin=R34-1
+Added Pin To Net: NetName=NetC53_2 Pin=R34-2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetC54_2 Pin=R35-2
+Added Pin To Net: NetName=NetR31_2 Pin=R36-1
+Added Pin To Net: NetName=NetC51_1 Pin=R36-2
+Added Pin To Net: NetName=NetQ6_3 Pin=R37-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R37-2
+Added Pin To Net: NetName=VCC+5V Pin=R38-1
+Added Pin To Net: NetName=NetJ5_6 Pin=R38-2
+Added Pin To Net: NetName=VCC+5V Pin=R39-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R39-2
+Added Pin To Net: NetName=VCC+15V Pin=R40-1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR31_2 Pin=R41-1
+Added Pin To Net: NetName=GND+15V Pin=R41-2
+Added Pin To Net: NetName=NetC54_2 Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R42-2
+Added Pin To Net: NetName=VCC+15V Pin=R43-1
+Added Pin To Net: NetName=NetC56_2 Pin=R43-2
+Added Pin To Net: NetName=NetC53_2 Pin=R44-1
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=VCC+15V Pin=R45-1
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R46-1
+Added Pin To Net: NetName=NetR45_2 Pin=R46-2
+Added Pin To Net: NetName=NetR40_2 Pin=R47-1
+Added Pin To Net: NetName=NetC57_2 Pin=R47-2
+Added Pin To Net: NetName=NetC55_2 Pin=R48-1
+Added Pin To Net: NetName=GND+15V Pin=R48-2
+Added Pin To Net: NetName=NetC57_2 Pin=R49-1
+Added Pin To Net: NetName=GND+15V Pin=R49-2
+Added Pin To Net: NetName=NetC56_2 Pin=R50-1
+Added Pin To Net: NetName=GND+15V Pin=R50-2
+Added Pin To Net: NetName=NetC59_2 Pin=R51-1
+Added Pin To Net: NetName=VDC Pin=R51-2
+Added Pin To Net: NetName=NetC64_2 Pin=R52-1
+Added Pin To Net: NetName=NetC59_2 Pin=R52-2
+Added Pin To Net: NetName=VCC+5V Pin=R53-1
+Added Pin To Net: NetName=GND+15V Pin=R53-2
+Added Pin To Net: NetName=VCC+15V Pin=R54-1
+Added Pin To Net: NetName=GND+15V Pin=R54-2
+Added Pin To Net: NetName=NetC64_2 Pin=R55-1
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=PE Pin=SC1-1
+Added Pin To Net: NetName=PE Pin=SC2-1
+Added Pin To Net: NetName=PE Pin=SC3-1
+Added Pin To Net: NetName=PE Pin=SC4-1
+Added Pin To Net: NetName=PE Pin=SC5-1
+Added Pin To Net: NetName=PE Pin=SC6-1
+Added Pin To Net: NetName=NetC12_2 Pin=SR1-1
+Added Pin To Net: NetName=VDC Pin=SR1-2
+Added Pin To Net: NetName=NetC12_2 Pin=SR2-1
+Added Pin To Net: NetName=VDC Pin=SR2-2
+Added Pin To Net: NetName=NetC12_2 Pin=SR3-1
+Added Pin To Net: NetName=VDC Pin=SR3-2
+Added Pin To Net: NetName=NetC28_2 Pin=SR4-1
+Added Pin To Net: NetName=NetD3_2 Pin=SR4-2
+Added Pin To Net: NetName=NetC28_2 Pin=SR5-1
+Added Pin To Net: NetName=NetD3_2 Pin=SR5-2
+Added Pin To Net: NetName=NetC28_2 Pin=SR6-1
+Added Pin To Net: NetName=NetD3_2 Pin=SR6-2
+Added Pin To Net: NetName=NetD17_2 Pin=SR7-1
+Added Pin To Net: NetName=NetC60_1 Pin=SR7-2
+Added Pin To Net: NetName=NetD17_2 Pin=SR8-1
+Added Pin To Net: NetName=NetC60_1 Pin=SR8-2
+Added Pin To Net: NetName=NetD17_2 Pin=SR9-1
+Added Pin To Net: NetName=NetC60_1 Pin=SR9-2
+Added Pin To Net: NetName=NetD25_1 Pin=SR10-1
+Added Pin To Net: NetName=NetC69_2 Pin=SR10-2
+Added Pin To Net: NetName=NetD25_1 Pin=SR11-1
+Added Pin To Net: NetName=NetC69_2 Pin=SR11-2
+Added Pin To Net: NetName=NetD25_1 Pin=SR12-1
+Added Pin To Net: NetName=NetC69_2 Pin=SR12-2
+Added Pin To Net: NetName=NetC12_1 Pin=T1-1
+Added Pin To Net: NetName=NetD3_2 Pin=T1-5
+Added Pin To Net: NetName=NetD13_2 Pin=T1-8
+Added Pin To Net: NetName=GND Pin=T1-9
+Added Pin To Net: NetName=NetC47_1 Pin=T1-10
+Added Pin To Net: NetName=GND+15V Pin=T1-11
+Added Pin To Net: NetName=NetC21_1 Pin=T1-12
+Added Pin To Net: NetName=GND+12V Pin=T1-13
+Added Pin To Net: NetName=NetC13_1 Pin=T1-14
+Added Pin To Net: NetName=MON GND Pin=T1-17
+Added Pin To Net: NetName=NetC1_1 Pin=T1-18
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=NetC11_1 Pin=T2-4
+Added Pin To Net: NetName=NetC12_1 Pin=T2-5
+Added Pin To Net: NetName=NetR5_1 Pin=T2-6
+Added Pin To Net: NetName=NetC28_1 Pin=T2-9
+Added Pin To Net: NetName=NetR13_1 Pin=T2-10
+Added Pin To Net: NetName=VCC+18V Pin=TP1-1
+Added Pin To Net: NetName=NetC12_1 Pin=TP3-1
+Added Pin To Net: NetName=NetQ2_2 Pin=TP7-1
+Added Pin To Net: NetName=NetC24_1 Pin=TP8-1
+Added Pin To Net: NetName=NetD3_2 Pin=TP10-1
+Added Pin To Net: NetName=NetC27_1 Pin=TP11-1
+Added Pin To Net: NetName=GND+15V Pin=TP12-1
+Added Pin To Net: NetName=GND Pin=TP13-1
+Added Pin To Net: NetName=VCC+15V Pin=TP15-1
+Added Pin To Net: NetName=NetC38_1 Pin=TP16-1
+Added Pin To Net: NetName=NetJ5_6 Pin=TP17-1
+Added Pin To Net: NetName=GND+15V Pin=TP18-1
+Added Pin To Net: NetName=VDC Pin=TP19-1
+Added Pin To Net: NetName=GND+15V Pin=TP20-1
+Added Pin To Net: NetName=GND Pin=TP22-1
+Added Pin To Net: NetName=NetC23_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetC27_1 Pin=U1-3
+Added Pin To Net: NetName=NetC24_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetQ2_2 Pin=U1-6
+Added Pin To Net: NetName=VCC+18V Pin=U1-7
+Added Pin To Net: NetName=NetC25_2 Pin=U1-8
+Added Pin To Net: NetName=NetR26_2 Pin=U2-1
+Added Pin To Net: NetName=NetC51_2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetC23_2 Pin=U2-4
+Added Pin To Net: NetName=NetC53_2 Pin=U3-1
+Added Pin To Net: NetName=NetQ6_1 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetR31_2 Pin=U4-1
+Added Pin To Net: NetName=NetC51_2 Pin=U4-2
+Added Pin To Net: NetName=GND+15V Pin=U4-3
+Added Pin To Net: NetName=NetC57_2 Pin=U5-1
+Added Pin To Net: NetName=NetC56_2 Pin=U5-2
+Added Pin To Net: NetName=GND+15V Pin=U5-3
+Added Pin To Net: NetName=NetC56_2 Pin=U6-1
+Added Pin To Net: NetName=NetR45_2 Pin=U6-2
+Added Pin To Net: NetName=GND+15V Pin=U6-3
+Added Pin To Net: NetName=VCC+15V Pin=U7-1
+Added Pin To Net: NetName=GND+15V Pin=U7-2
+Added Pin To Net: NetName=VCC+5V Pin=U7-3
+Added Member To Class: ClassName=高压开关电源 Member=Component C1 102K/1KV
+Added Member To Class: ClassName=高压开关电源 Member=Component C2 47uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C3 1000uF/35V
+Added Member To Class: ClassName=高压开关电源 Member=Component C4 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C5 222/250VAC(Y2)
+Added Member To Class: ClassName=高压开关电源 Member=Component C6 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C7 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C8 223K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C9 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C10 105K63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C11 105K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C12 102K/1KV
+Added Member To Class: ClassName=高压开关电源 Member=Component C13 102K/1KV
+Added Member To Class: ClassName=高压开关电源 Member=Component C14 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component C15 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C16 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C17 223K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C18 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C19 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C20 105K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C21 102K/1KV
+Added Member To Class: ClassName=高压开关电源 Member=Component C22 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component C23 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C24 222/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C25 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C26 225/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C27 471/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C28 102K/1KV
+Added Member To Class: ClassName=高压开关电源 Member=Component C29 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C30 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C31 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C32 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C33 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C34 105K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C35 223K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C36 105/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C37 105/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C38 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C39 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C40 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C41 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C42 1000uF/35V
+Added Member To Class: ClassName=高压开关电源 Member=Component C43 222/250VAC(Y2)
+Added Member To Class: ClassName=高压开关电源 Member=Component C44 47uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C45 223K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C46 105K/63VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component C47 102K/1KV
+Added Member To Class: ClassName=高压开关电源 Member=Component C48 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C49 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C50 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C51 225/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C52 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C53 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C54 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C55 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C56 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C57 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C58 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C59 470uF/450V
+Added Member To Class: ClassName=高压开关电源 Member=Component C60 0.47uF/330V~(X1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C61 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C62 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C63 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C64 470uF/450V
+Added Member To Class: ClassName=高压开关电源 Member=Component C65 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C66 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C67 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C68 470uF/25V
+Added Member To Class: ClassName=高压开关电源 Member=Component C69 0.47uF/330V~(X1)
+Added Member To Class: ClassName=高压开关电源 Member=Component C70 104/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component C71 470uF/450V
+Added Member To Class: ClassName=高压开关电源 Member=Component C72 472M/400VAC(Y1)
+Added Member To Class: ClassName=高压开关电源 Member=Component D1 MUR2100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D2 APT15D60BG
+Added Member To Class: ClassName=高压开关电源 Member=Component D3 SF1600
+Added Member To Class: ClassName=高压开关电源 Member=Component D4 MUR2100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D5 BAV70LT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component D6 MUR460
+Added Member To Class: ClassName=高压开关电源 Member=Component D7 BAT54S
+Added Member To Class: ClassName=高压开关电源 Member=Component D8 BAV70LT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component D9 BAV70LT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component D10 SF1600
+Added Member To Class: ClassName=高压开关电源 Member=Component D11 MUR2100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D12 MUR460
+Added Member To Class: ClassName=高压开关电源 Member=Component D13 MUR2100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D15 BAV70LT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component D16 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D17 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D18 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D19 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D20 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D21 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D22 MUR2100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D23 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D24 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D25 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D26 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D27 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component D28 MUR4100E
+Added Member To Class: ClassName=高压开关电源 Member=Component F1 3A125V
+Added Member To Class: ClassName=高压开关电源 Member=Component F3 6A/250Vac
+Added Member To Class: ClassName=高压开关电源 Member=Component J1 CON2/3.96
+Added Member To Class: ClassName=高压开关电源 Member=Component J3 CON2/3.96
+Added Member To Class: ClassName=高压开关电源 Member=Component J4 CON2/3.96
+Added Member To Class: ClassName=高压开关电源 Member=Component J5 CON6/3.96
+Added Member To Class: ClassName=高压开关电源 Member=Component J6 CON3/3.96
+Added Member To Class: ClassName=高压开关电源 Member=Component J7 CON3/2.54
+Added Member To Class: ClassName=高压开关电源 Member=Component L1 DR2W-9*12  33uH
+Added Member To Class: ClassName=高压开关电源 Member=Component L2 DR2W-9*12  33uH
+Added Member To Class: ClassName=高压开关电源 Member=Component L3 DR2W-9*12  33uH
+Added Member To Class: ClassName=高压开关电源 Member=Component L4 DR2W-9*12  33uH
+Added Member To Class: ClassName=高压开关电源 Member=Component L5 T22*4
+Added Member To Class: ClassName=高压开关电源 Member=Component LED1 发光二极管Φ5 发绿光
+Added Member To Class: ClassName=高压开关电源 Member=Component Q1 2SK2613
+Added Member To Class: ClassName=高压开关电源 Member=Component Q2 2N4401
+Added Member To Class: ClassName=高压开关电源 Member=Component Q3 2N4403
+Added Member To Class: ClassName=高压开关电源 Member=Component Q4 2SK2613
+Added Member To Class: ClassName=高压开关电源 Member=Component Q5 MMBT2907ALT1
+Added Member To Class: ClassName=高压开关电源 Member=Component Q6 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component Q7 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component Q8 MMBT2222ALT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component Q9 MMBT2222ALT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component Q10 MMBT2222ALT1G
+Added Member To Class: ClassName=高压开关电源 Member=Component R1 100K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R2 100K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R3 100K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R4 33/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R5 75/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R6 1K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R7 75/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R8 6.81K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R9 49.9K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R10 1K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R11 33/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R12 1K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R13 75/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R14 1M/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R15 33/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R16 75/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R17 49.9K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R18 49.9/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R19 1K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R20 330/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R21 249/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R22 0.33/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R23 75/1206
+Added Member To Class: ClassName=高压开关电源 Member=Component R24 1K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R25 33/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R26 3.3K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R27 5.6K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R28 2M/1W
+Added Member To Class: ClassName=高压开关电源 Member=Component R29 3.3K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R30 2M/1W
+Added Member To Class: ClassName=高压开关电源 Member=Component R31 4.99K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R32 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component R33 5.6K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R34 400K/1W
+Added Member To Class: ClassName=高压开关电源 Member=Component R35 5.6K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R36 10K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R37 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component R38 3K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R39 3K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R40 9.1K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R41 1K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R42 5.6K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R43 8.25K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R44 10K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R45 2K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R46 2K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R47 2K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R48 5.6K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R49 2K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R50 2.49K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R51 140K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R52 140K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component R53 3.3K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R54 3.3K/0805
+Added Member To Class: ClassName=高压开关电源 Member=Component R55 140K/3W
+Added Member To Class: ClassName=高压开关电源 Member=Component SC1
+Added Member To Class: ClassName=高压开关电源 Member=Component SC2
+Added Member To Class: ClassName=高压开关电源 Member=Component SC3
+Added Member To Class: ClassName=高压开关电源 Member=Component SC4
+Added Member To Class: ClassName=高压开关电源 Member=Component SC5
+Added Member To Class: ClassName=高压开关电源 Member=Component SC6
+Added Member To Class: ClassName=高压开关电源 Member=Component SR1 500/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR2 500/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR3 500/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR4 500/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR5 500/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR6 500/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR7 30/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR8 30/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR9 30/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR10 30/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR11 30/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component SR12 30/10W
+Added Member To Class: ClassName=高压开关电源 Member=Component T1 ER42
+Added Member To Class: ClassName=高压开关电源 Member=Component T2 EEL-16X
+Added Member To Class: ClassName=高压开关电源 Member=Component TP1 VCC+18V
+Added Member To Class: ClassName=高压开关电源 Member=Component TP3 MOS_UP_S
+Added Member To Class: ClassName=高压开关电源 Member=Component TP7 PWM_OUT
+Added Member To Class: ClassName=高压开关电源 Member=Component TP8 OSC
+Added Member To Class: ClassName=高压开关电源 Member=Component TP10 MOS_DOWN_D
+Added Member To Class: ClassName=高压开关电源 Member=Component TP11 CS
+Added Member To Class: ClassName=高压开关电源 Member=Component TP12 GND+15V
+Added Member To Class: ClassName=高压开关电源 Member=Component TP13 GND
+Added Member To Class: ClassName=高压开关电源 Member=Component TP15 VCC+15V
+Added Member To Class: ClassName=高压开关电源 Member=Component TP16 Vfb
+Added Member To Class: ClassName=高压开关电源 Member=Component TP17 PWR_NG
+Added Member To Class: ClassName=高压开关电源 Member=Component TP18 GND+15V
+Added Member To Class: ClassName=高压开关电源 Member=Component TP19 VDC
+Added Member To Class: ClassName=高压开关电源 Member=Component TP20 GND+15V
+Added Member To Class: ClassName=高压开关电源 Member=Component TP22 GND
+Added Member To Class: ClassName=高压开关电源 Member=Component U1 UC2844BN
+Added Member To Class: ClassName=高压开关电源 Member=Component U2 TLP521
+Added Member To Class: ClassName=高压开关电源 Member=Component U3 NC
+Added Member To Class: ClassName=高压开关电源 Member=Component U4 AZ431LANTR-E1
+Added Member To Class: ClassName=高压开关电源 Member=Component U5 AZ431LANTR-E1
+Added Member To Class: ClassName=高压开关电源 Member=Component U6 AZ431LANTR-E1
+Added Member To Class: ClassName=高压开关电源 Member=Component U7 MC7805BDTG

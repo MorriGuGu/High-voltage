@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\AD20 Program\高压开关电源\High-voltage power\High-voltage.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=high-voltage-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=high-voltage-slotholes.txt|DrillLayers=gtl,gbl

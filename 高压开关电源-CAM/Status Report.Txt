@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [High-voltage power.PrjPcb]
+   Generated File[Pick Place for High-voltage.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:39:39 On 2024/9/24

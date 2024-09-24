@@ -1,0 +1,10 @@
+Change Physical Footprint: Designator=C53 Old Footprint=C0805BSM New Footprint=C0805BSM
+Change Physical Footprint: Designator=Q6 Old Footprint=TRPNPBSM New Footprint=TRPNPBSM
+Change Physical Footprint: Designator=Q7 Old Footprint=TRNPNBSM New Footprint=TRNPNBSM
+Change Physical Footprint: Designator=R28 Old Footprint=R075005 New Footprint=R075005
+Change Physical Footprint: Designator=R30 Old Footprint=R075005 New Footprint=R075005
+Change Physical Footprint: Designator=R32 Old Footprint=R0805BSM New Footprint=R0805BSM
+Change Physical Footprint: Designator=R34 Old Footprint=R075005 New Footprint=R075005
+Change Physical Footprint: Designator=R37 Old Footprint=R0805BSM New Footprint=R0805BSM
+Change Physical Footprint: Designator=R44 Old Footprint=R0805BSM New Footprint=R0805BSM
+Change Physical Footprint: Designator=U3 Old Footprint=AZ431LS23TSM New Footprint=AZ431LS23TSM
